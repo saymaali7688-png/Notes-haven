@@ -19,10 +19,6 @@ Notes Heaven is a simple note-taking web application designed for students to cr
 * HTML & CSS
 * Lucide Icons
 
-## 🚀 Live Demo
-
-[Open Notes Heaven](https://notes-heaven.ai.studio/)
-
 ## 🎯 Objective
 
 To provide students with a simple and organized digital space for managing their study notes.
